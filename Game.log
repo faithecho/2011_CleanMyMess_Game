@@ -1,0 +1,6 @@
+Línea 83: la clase WMPLibCtl.WindowsMediaPlayer del control pFX no era una clase de control cargada.
+Línea 245: la clase AlphaImageControl.aicAlphaImage del control Cortina no era una clase de control cargada.
+Línea 258: la clase AlphaImageControl.aicAlphaImage del control imgActor2 no era una clase de control cargada.
+Línea 269: la clase AlphaImageControl.aicAlphaImage del control imgActor1 no era una clase de control cargada.
+Línea 280: la clase AlphaImageControl.aicAlphaImage del control imFondo no era una clase de control cargada.
+Línea 292: la clase WMPLibCtl.WindowsMediaPlayer del control pMusica no era una clase de control cargada.
